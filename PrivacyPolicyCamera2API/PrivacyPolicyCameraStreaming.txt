@@ -1,0 +1,7 @@
+Privacy Policy for Camera Stream Wifi
+==============================
+This Application asks for the following permissions:
+
+android.permission.CAMERA
+
+Installing the Camera Stream Wifi Application You are agreed to provide Access to your Device Camera for Application functioning . This access is limited to user only. None of the data present at your device is shared with us.
