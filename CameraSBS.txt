@@ -1,0 +1,9 @@
+Privacy Policy for CameraSBS
+==============================
+This Application asks for the following permissions:
+
+android.permission.CAMERA
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_EXTERNAL_STORAGE
+
+Installing the CameraSBS Application You are agreed to provide Access to your Device Camera,File System, for Application functioning . This access is limited to user only. None of the data present at your device is shared with us.
