@@ -1,0 +1,9 @@
+BLE Central
+===========
+Application to read Bluetooth Low Energy (BLE) data from Sensor
+
+Privacy Policy Declaration :
+============================
+- This App do not upload or saves any data on our servers.
+- The Bluetooth Accessed is only to the End User only.
+- Location is accessed for BLE service only, we do not track or save user's locations on our server
