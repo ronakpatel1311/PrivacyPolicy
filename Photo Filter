@@ -1,0 +1,13 @@
+Photo Filter
+=============
+Photo Filter Application asks for following permissions
+
+ - READ_EXTERNAL_STORAGE
+ - WRITE_EXTERNAL_STORAGE
+ - CAMERA
+ - RECORD_AUDIO
+ 
+ NOTE:
+  - The above mention permissions are asked just to apply filters on Photos / Camera Capture / camera video.
+  - No user's personal data is uploaded from application to any random server.
+ 
